@@ -1,4 +1,4 @@
-![Web and application developer ](https://document-export.canva.com/A7Vpw/DAFhsQA7Vpw/1/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230501T024905Z&X-Amz-Expires=57549&X-Amz-Signature=01c5db3907128e4519d442a5a913a7e83a72f6be12d5f37f588492c066c70930&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2001%20May%202023%2018%3A48%3A14%20GMT)
+![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1690416000&v=beta&t=Upjtp2ExeTIJWHvrfkMxAi5UGFz6z4zE13cWJa6aOU0)
 ### Hi there 👋, my name is Abu
 #### Web and application developer 
 
