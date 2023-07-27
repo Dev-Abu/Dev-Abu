@@ -1,20 +1,17 @@
 ![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1695859200&v=beta&t=G9kPEy0J5cNH0GC3kbp008XG9sRMK0-4MBoVaWcFygI)
 ### Hi there 👋 my name is Abu sayam
-#### I'm a web developer .
+#### I'm a junior full stack Web developer .
 
-Currently, I'm working as a Javascript developer . <br/> 
-I love learning something new and applying it to real life. I like to be focused and responsible on the work I'm doing. 
+I'm working as a Javascript developer . <br/> 
+I love learning something new and applying it to real life.<br/> 
+I like to be focused and responsible on the work I'm doing. 
 
 Skills:  HTML / CSS / REACT / NODE JS / MONGO DB / STRAPI
 
-- 🔭 I’m currently working on my Skill Developing.
+- 🔭 I’m currently working as a junior at Fullstack Web Developing.
 - 🧑‍🏫 Wrking on : As JavaScript developer / web development.
-- 👨‍💻 Others Skills : C, C++, DSA.
-- 🌱 I’m currently learning : Full Stack web application development.
-- 👯 I’m looking to collaborate on GitHub.
-- 💬 Ask me about Development.
-- 📫 How to reach me: mydevmind@gmil.com
-
+- 🌱 I’m currently learning : Focused on developing skills as a full stack web application developer.
+- 👨‍💻 Other Skills : C, C++, DSA, OOP, Rest API, Git, Notion.
 
 
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dev-Abu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abusayam/) 
