@@ -1,6 +1,6 @@
-![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1690416000&v=beta&t=Upjtp2ExeTIJWHvrfkMxAi5UGFz6z4zE13cWJa6aOU0)
+![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1695859200&v=beta&t=G9kPEy0J5cNH0GC3kbp008XG9sRMK0-4MBoVaWcFygI)
 ### Hi there 👋, my name is Abu sayam
-#### I'm a Programmer .
+#### I'm a web developer .
 
 Currently i'm working with node js and JavaScripcie frameworks . 
 I love to learn something new and apply to real life. I like to be fucus and responsible with the work im doing. 
