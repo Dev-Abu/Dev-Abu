@@ -1,16 +1,16 @@
 ![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1690416000&v=beta&t=Upjtp2ExeTIJWHvrfkMxAi5UGFz6z4zE13cWJa6aOU0)
-### Hi there 👋, my name is Abu
+### Hi there 👋, my name is Abu sayam
 #### I'm a Programmer .
 
 Currently i'm working with node js and JavaScripcie frameworks . 
 I love to learn something new and apply to real life. I like to be fucus and responsible with the work im doing. 
 
-Skills:  REACT / NODE JS / MONGO DB.
+Skills:  REACT / NODE JS / MONGO DB / srapi
 
 - 🔭 I’m currently working on my Skill Developing.
-- 🧑‍🏫 Skills on : Node js , Js frameworks . web application development.
-- 👨‍💻 My startup with : C , C++ , DSA , JS , nodeJs .
-- 🌱 I’m currently learning : advance of DSA , .NET Framework.
+- 🧑‍🏫 Wrking on : As JavaScript developer / web development.
+- 👨‍💻 Skills : HTML , CSS , JS , React, nodeJs , Mongo DB.
+- 🌱 I’m currently learning : Full Stack web application development.
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about Development.
 - 📫 How to reach me: mydevmind@gmil.com
