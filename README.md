@@ -9,7 +9,7 @@ I like to be focused and responsible for the work I'm doing.
 Skills:  REACT / NODE JS / MONGO DB / STRAPI
 
 - 🔭 I’m currently working as a junior at Fullstack Web Developing.
-- 🧑‍🏫 Working on: As JavaScript developer / web development.
+- 🧑‍🏫 Working on: As JavaScript developer/ web developer.
 - 🌱 I’m currently learning: Focused on developing skills as a full stack web application developer.
 - 👨‍💻 Other Skills: C, C++, DSA, OOP, Rest API, Git, Notion.
 
