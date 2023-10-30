@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My Name is Abu Sayam. I'm working as a Javascript developer. I love learning something new and applying it to real life.<br>I like to be focused and responsible for the work I'm doing.</p>
+<p align="left">My Name is Abu Sayam. I'm working as a Javascript developer.<br/> I love learning something new and applying it to real life.<br>I like to be focused and responsible for the work I'm doing.</p>
 
 ###
 
@@ -14,6 +14,8 @@
 
 <p align="left">Skills: REACT / NODE JS / MONGO DB / STRAPI<br><br>🔭 I’m currently working as a junior at Fullstack Web Developing.<br><br>🧑‍🏫 Working on: As JavaScript developer/ web developer.<br><br>🌱 I’m currently learning: Focused on developing skills as a full stack web application developer.<br><br>👨‍💻 Other Skills: C, C++, DSA, OOP, Rest API, Git, Notion.</p>
 
+###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abusayam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](abusauem.com) 
 ###
 
 <h2 align="left">I code with</h2>
