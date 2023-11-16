@@ -1,18 +1,24 @@
 <!-- ![Web and application developer ](https://media.licdn.com/dms/image/D4D16AQH8iQLrZew7xQ/profile-displaybackgroundimage-shrink_350_1400/0/1684629625820?e=1695859200&v=beta&t=G9kPEy0J5cNH0GC3kbp008XG9sRMK0-4MBoVaWcFygI) -->
 
-<h1 align="center">Hi there  I'm Abu Sayam</h1>
+<h1 align="center">Hi there  I'm Abu Sayam</h1> <br>
+Welcome, and Thank you for visiting my profile.
 
 ###
 
-<p align="left">My Name is Abu Sayam. I'm working as a Javascript developer.<br/> I love learning something new and applying it to real life.<br>I like to be focused and responsible for the work I'm doing.</p>
+<!-- <p align="left">I'm a Javascript developer. -->
 
 ###
 
-<h2 align="left">I'm a junior full stack Web developer.</h2>
+<h2 align="left">I'm working to become a full-stack Web developer.</h2>
 
 ###
 
-<p align="left">Skills: REACT / NODE JS / MONGO DB / STRAPI<br><br>🔭 I’m currently working as a junior at Fullstack Web Developing.<br><br>🧑‍🏫 Working on: As JavaScript developer/ web developer.<br><br>🌱 I’m currently learning: Focused on developing skills as a full stack web application developer.<br><br>👨‍💻 Other Skills: C, C++, DSA, OOP, Rest API, Git, Notion.</p>
+<p align="left">My Skills: REACT / NODE JS / EXPRESS / MONGO DB / STRAPI<br><br>
+
+  🔭 I’m currently working as  front-end Web Developer.<br>
+  🌱 Improving skills: Problem-solving on beecrowd, Hackerrank. <br>
+  🌱 DBMS Architecture, cloud-server application deployment.<br>
+  👨‍💻 Other Skills: C++ / DSA / OOP</p>
 
 ###
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abusayam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](abusauem.com) 
