@@ -17,7 +17,7 @@ Welcome, and Thank you for visiting my profile.
 
   🔭 I’m currently working as  a front-end Web Developer.<br>
   🌱 Improving skills: Problem-solving on beecrowd, Hackerrank. <br>
-  🌱 I’m currently earning: DBMS Architecture, cloud-server application deployment.<br>
+  🌱 I’m currently learning: DBMS Architecture, cloud/server application deployment.<br>
   👨‍💻 Other Skills: C++ / DSA / OOP</p>
 
 ###
