@@ -15,9 +15,9 @@ Welcome, and Thank you for visiting my profile.
 
 <p align="left">My Skills: REACT / NODE JS / EXPRESS / MONGO DB / STRAPI<br><br>
 
-  🔭 I’m currently working as  front-end Web Developer.<br>
+  🔭 I’m currently working as  a front-end Web Developer.<br>
   🌱 Improving skills: Problem-solving on beecrowd, Hackerrank. <br>
-  🌱 DBMS Architecture, cloud-server application deployment.<br>
+  🌱 I’m currently earning: DBMS Architecture, cloud-server application deployment.<br>
   👨‍💻 Other Skills: C++ / DSA / OOP</p>
 
 ###
